@@ -9,7 +9,7 @@
 ## How to clone and run
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/GustavoMiranda2/101488574_lab_test1_chat_app.git
 cd 101488574_lab_test1_chat_app
 npm install
 npm start
