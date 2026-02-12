@@ -1,0 +1,25 @@
+{
+  "name": "101488574_lab_test1_chat_app",
+  "version": "1.0.0",
+  "description": "Miranda's Chat - COMP3133 Lab Test 1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "chat",
+    "socketio",
+    "express",
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "Gustavo Miranda 101488574",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mongoose": "^9.2.1",
+    "socket.io": "^4.8.3"
+  }
+}
